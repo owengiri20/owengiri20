@@ -1,5 +1,3 @@
-### (:
-
 ![Alt Text](https://media1.tenor.com/images/9d3787023f630c9fe8e9dd23b34aeec6/tenor.gif?itemid=10072139)
 <!--
 **owengiri20/owengiri20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
