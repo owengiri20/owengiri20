@@ -1,2 +1,3 @@
 ### OWEN GIRI
-**Full stack Software Developer**
+**Software Engineer**
+
